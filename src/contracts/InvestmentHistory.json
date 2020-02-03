@@ -1,0 +1,54 @@
+{
+    "contractName": "InvestmentHistory",
+        "Records": [
+          {
+            "Company": "CBA",
+            "Price": "84.450",
+            "Action": "Buy",
+            "Date":"2020/01/20",
+            "Status":"Pending"
+          },
+          {
+            "Company": "ANZ",
+            "Price": "25.720",
+            "Action": "Sell",
+            "Date":"2020/01/11",
+            "Status":"Success"
+          },
+          {
+            "Company": "NAB",
+            "Price": "25.710",
+            "Action": "Buy",
+            "Date":"2019/11/06",
+            "Status":"Success"
+          },
+          {
+            "Company": "VCX",
+            "Price": "2.450",
+            "Action": "Buy",
+            "Date":"2019/08/03",
+            "Status":"Success"
+          },
+          {
+            "Company": "AMP",
+            "Price": "1.880",
+            "Action": "Sell",
+            "Date":"2019/07/15",
+            "Status":"Success"
+          },
+          {
+            "Company": "BNP",
+            "Price": "103.880",
+            "Action": "Sell",
+            "Date":"2019/05/25",
+            "Status":"Success"
+          },
+          {
+            "Company": "NAB",
+            "Price": "27.880",
+            "Action": "Buy",
+            "Date":"2019/03/12",
+            "Status":"Success"
+          }
+        ]
+    }
